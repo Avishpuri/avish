@@ -1,0 +1,52 @@
+ul{
+    margin: 0%;
+    padding: 0%;
+    list-style-type: none;
+    overflow: hidden;
+    float: right;
+
+
+}
+li{
+    float: left;
+}
+li a{
+    text-decoration: none;
+    padding: 4px 30px ;
+    display: block;
+    text-align: left;
+    font-size: 220%;
+    color:white;
+    margin: 1%;
+    width: 70px;
+    
+    
+}
+a:hover{
+    background-color: rgb(209, 69, 146);
+    }
+    h1{
+        display: inline;
+        padding-bottom: 20%;
+        font-size: 220%;
+        color: white;
+    }
+    #this2{
+        background-color: purple;
+        padding: 60px 10px;
+        border-end-end-radius: 10%;
+        border-end-start-radius: 10%;
+    }
+    .blogs{
+        font-size: 170%;
+        text-align: center;
+        
+        
+    }
+    h2{
+        text-decoration: underline;
+    }
+    p{
+        font-size: 150%;
+        float: left;
+    }

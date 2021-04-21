@@ -1,0 +1,46 @@
+body{
+    background-image: url('download%20(1).jfif');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+h1{
+    color: white;
+    text-align: center;
+    
+}
+p{
+    color: white;
+    padding: 20px 30px;
+    border: 10px solid grey;
+    border-radius: 5px;
+    font-family: cursive;
+    
+}
+nav{
+    
+    margin: 0px 40px;
+    padding: 10px 20px;
+    overflow:hidden
+    
+    
+}
+nav a{
+    text-decoration: none;
+    padding: 30px;
+    color: white;
+    font-family: lato;
+    border-bottom: 3px solid grey;
+    border-top: 3px solid grey;
+    margin-right: 20px;
+    
+}
+nav a:hover{
+    background-color: aqua;
+    text-shadow: 0 1px 1px grey;
+}
+.navbar{
+     border: 10px solid grey;
+    border-radius: 5px;
+    
+}
